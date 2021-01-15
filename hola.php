@@ -1,3 +1,4 @@
 <?php
-echo"hola mundo";
+echo"Hola mundo\n";
+echo"Soy Wilson Gilces";
 ?>
